@@ -56,67 +56,67 @@ The following variables are documented in the Outputdataset
 ###### Time Series Body Acceleration-std()-X	
 ###### Time Series Body Acceleration-std()-Y	
 ###### Time Series Body Acceleration-std()-Z	
-Time Series GravityAcceleration-mean()-X	
-Time Series GravityAcceleration-mean()-Y	
-Time Series GravityAcceleration-mean()-Z	
-Time Series GravityAcceleration-std()-X	
-Time Series GravityAcceleration-std()-Y	
-Time Series GravityAcceleration-std()-Z	
-Time Series Body AccelerationJerk-mean()-X	
-Time Series Body AccelerationJerk-mean()-Y	
-Time Series Body AccelerationJerk-mean()-Z	
-Time Series Body AccelerationJerk-std()-X	
-Time Series Body AccelerationJerk-std()-Y	
-Time Series Body AccelerationJerk-std()-Z	
-Time Series Body Gyro-mean()-X	
-Time Series Body Gyro-mean()-Y	
-Time Series Body Gyro-mean()-Z	
-Time Series Body Gyro-std()-X	
-Time Series Body Gyro-std()-Y	
-Time Series Body Gyro-std()-Z	
-Time Series Body GyroJerk-mean()-X	
-Time Series Body GyroJerk-mean()-Y	
-Time Series Body GyroJerk-mean()-Z	
-Time Series Body GyroJerk-std()-X	
-Time Series Body GyroJerk-std()-Y	
-Time Series Body GyroJerk-std()-Z	
-Time Series Body Acceleration Magnitude-mean()	
-Time Series Body Acceleration Magnitude-std()	
-Time Series GravityAcceleration Magnitude-mean()	
-Time Series GravityAcceleration Magnitude-std()	
-Time Series Body AccelerationJerk Magnitude-mean()	
-Time Series Body AccelerationJerk Magnitude-std()	
-Time Series Body Gyro Magnitude-mean()	
-Time Series Body Gyro Magnitude-std()	
-Time Series Body GyroJerk Magnitude-mean()	
-Time Series Body GyroJerk Magnitude-std()	
+###### Time Series GravityAcceleration-mean()-X	
+###### Time Series GravityAcceleration-mean()-Y	
+###### Time Series GravityAcceleration-mean()-Z	
+###### Time Series GravityAcceleration-std()-X	
+###### Time Series GravityAcceleration-std()-Y	
+###### Time Series GravityAcceleration-std()-Z	
+###### Time Series Body AccelerationJerk-mean()-X	
+###### Time Series Body AccelerationJerk-mean()-Y	
+###### Time Series Body AccelerationJerk-mean()-Z	
+###### Time Series Body AccelerationJerk-std()-X	
+###### Time Series Body AccelerationJerk-std()-Y	
+###### Time Series Body AccelerationJerk-std()-Z	
+###### Time Series Body Gyro-mean()-X	
+###### Time Series Body Gyro-mean()-Y	
+###### Time Series Body Gyro-mean()-Z	
+###### Time Series Body Gyro-std()-X	
+###### Time Series Body Gyro-std()-Y	
+###### Time Series Body Gyro-std()-Z	
+###### Time Series Body GyroJerk-mean()-X	
+###### Time Series Body GyroJerk-mean()-Y	
+###### Time Series Body GyroJerk-mean()-Z	
+###### Time Series Body GyroJerk-std()-X	
+###### Time Series Body GyroJerk-std()-Y	
+###### Time Series Body GyroJerk-std()-Z	
+###### Time Series Body Acceleration Magnitude-mean()	
+###### Time Series Body Acceleration Magnitude-std()	
+###### Time Series GravityAcceleration Magnitude-mean()	
+###### Time Series GravityAcceleration Magnitude-std()	
+###### Time Series Body AccelerationJerk Magnitude-mean()	
+###### Time Series Body AccelerationJerk Magnitude-std()	
+###### Time Series Body Gyro Magnitude-mean()	
+###### Time Series Body Gyro Magnitude-std()	
+###### Time Series Body GyroJerk Magnitude-mean()	
+###### Time Series Body GyroJerk Magnitude-std()	
 
 ## FREQUENCY SERIES VARIABLES
 *vALUES RANGE FROM -1 TO 1*
-Frequency Series Body Acceleration-mean()-X	
-Frequency Series Body Acceleration-mean()-Y	
-Frequency Series Body Acceleration-mean()-Z	
-Frequency Series Body Acceleration-std()-X	
-Frequency Series Body Acceleration-std()-Y	
-Frequency Series Body Acceleration-std()-Z	
-Frequency Series Body AccelerationJerk-mean()-X	
-Frequency Series Body AccelerationJerk-mean()-Y
-Frequency Series Body AccelerationJerk-mean()-Z
-Frequency Series Body AccelerationJerk-std()-X
-Frequency Series Body AccelerationJerk-std()-Y
-Frequency Series Body AccelerationJerk-std()-Z
-Frequency Series Body Gyro-mean()-X	
-Frequency Series Body Gyro-mean()-Y	
-Frequency Series Body Gyro-mean()-Z	
-Frequency Series Body Gyro-std()-X	
-Frequency Series Body Gyro-std()-Y	
-Frequency Series Body Gyro-std()-Z	
-Frequency Series Body Acceleration Magnitude-mean()	
-Frequency Series Body Acceleration Magnitude-std()	
-Frequency Series Body AccelerationJerk Magnitude-mean()
-Frequency Series Body AccelerationJerk Magnitude-std()
-Frequency Series Body Gyro Magnitude-mean()
-Frequency Series Body Gyro Magnitude-std()
-Frequency Series Body GyroJerk Magnitude-mean()
-Frequency Series Body GyroJerk Magnitude-std()
+###### Frequency Series Body Acceleration-mean()-X	
+###### Frequency Series Body Acceleration-mean()-Y	
+###### Frequency Series Body Acceleration-mean()-Z	
+###### Frequency Series Body Acceleration-std()-X	
+###### Frequency Series Body Acceleration-std()-Y	
+###### Frequency Series Body Acceleration-std()-Z	
+###### Frequency Series Body AccelerationJerk-mean()-X	
+###### Frequency Series Body AccelerationJerk-mean()-Y
+###### Frequency Series Body AccelerationJerk-mean()-Z
+###### Frequency Series Body AccelerationJerk-std()-X
+###### Frequency Series Body AccelerationJerk-std()-Y
+###### Frequency Series Body AccelerationJerk-std()-Z
+###### Frequency Series Body Gyro-mean()-X	
+###### Frequency Series Body Gyro-mean()-Y	
+###### Frequency Series Body Gyro-mean()-Z	
+###### Frequency Series Body Gyro-std()-X	
+###### Frequency Series Body Gyro-std()-Y	
+###### Frequency Series Body Gyro-std()-Z	
+###### Frequency Series Body Acceleration Magnitude-mean()	
+###### Frequency Series Body Acceleration Magnitude-std()	
+###### Frequency Series Body AccelerationJerk Magnitude-mean()
+###### Frequency Series Body AccelerationJerk Magnitude-std()
+###### Frequency Series Body Gyro Magnitude-mean()
+###### Frequency Series Body Gyro Magnitude-std()
+###### Frequency Series Body GyroJerk Magnitude-mean()
+###### Frequency Series Body GyroJerk Magnitude-std()
 
