@@ -1,10 +1,10 @@
 # CleaningDataProj
 Repository to store and share deliverable's of Getting and Cleaning Data Course Project
 
-*#### RAW DATA folder holds the raw data set downloaded from the URL
-*#### OUTPUT DATA folder has the final output csv created after tidying data set
-*#### run_analysis.R holds the actual script of R file which transforms the raw input file to tidy dataset
-*#### codebook.md has detailed information about the generated data set
+* RAW DATA folder holds the raw data set downloaded from the URL
+* OUTPUT DATA folder has the final output csv created after tidying data set
+* 'run_analysis.R' holds the actual script of R file which transforms the raw input file to tidy dataset
+* 'codebook.md' has detailed information about the generated data set
 
 ### Step By Step explanation of the R Script 
 1. Load the libraries
