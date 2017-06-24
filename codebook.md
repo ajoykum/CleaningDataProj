@@ -46,7 +46,7 @@ The following variables are documented in the Outputdataset
 
 ### subjectcode	
   Factor variable identifiying 30 different values for different participants
-  *vALUES: 1 TO 30*
+  *Values: 1 TO 30*
   
 ### TIME SERIES VARIABLES
 *Values range FROM -1 TO 1*
@@ -92,7 +92,7 @@ The following variables are documented in the Outputdataset
 ###### Time Series Body GyroJerk Magnitude-std()	
 
 ### FREQUENCY SERIES VARIABLES
-*vALUES RANGE FROM -1 TO 1*
+*All values range from -1 TO 1*
 ###### Frequency Series Body Acceleration-mean()-X	
 ###### Frequency Series Body Acceleration-mean()-Y	
 ###### Frequency Series Body Acceleration-mean()-Z	
