@@ -47,6 +47,6 @@ Repository to store and share deliverable's of Getting and Cleaning Data Course 
 
 15. Use a series of substitue functions to make the column names more readable
 
-16. Generate the output in a .csv file
+16. Generate the output in a .csv file and .txt file
 
 17. View the newly created dataset
