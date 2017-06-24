@@ -145,12 +145,13 @@ colnames(newd)<-gsub(pattern = "tGravity",replacement = "Time Series Gravity",x 
 colnames(newd)<-gsub(pattern = "fBody",replacement = "Frequency Series Body",x = colnames(newd))
 
 colnames(newd)<-gsub(pattern = "BodyBody",replacement = "Body ",x = colnames(newd))
-
+ 
 colnames(newd)<-gsub(pattern = "BodyGyro",replacement = "Body Gyro",x = colnames(newd))
 
 colnames(newd)<-gsub(pattern = "BodyAcceleration",replacement = "Body Acceleration",x = colnames(newd))
 
 # write the content of Output file in OutputDataset.csv
-write.csv(x = newd,file = "OutputDataset.csv")
+write.table(x = newd,file = "OutputDataset.txt",row.names = FALSE)
+write.csv(x = newd, file = "OutputDataset.csv",row.names = FALSE)
 
 View(newd)
