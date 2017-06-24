@@ -40,15 +40,15 @@ Output of the script is stored in a .csv file named as 'OutputDataset.csv'
 
 The following variables are documented in the Outputdataset
 
-## activitydescription	
+### activitydescription	
   Categorical variable with 6 different values
   *VALUES: WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS, SITTING, STANDING,  LAYING*
 
-## subjectcode	
+### subjectcode	
   Factor variable identifiying 30 different values for different participants
   *vALUES: 1 TO 30*
   
-## TIME SERIES VARIABLES
+### TIME SERIES VARIABLES
 *Values range FROM -1 TO 1*
 ###### Time Series Body Acceleration-mean()-X	
 ###### Time Series Body Acceleration-mean()-Y	
@@ -91,7 +91,7 @@ The following variables are documented in the Outputdataset
 ###### Time Series Body GyroJerk Magnitude-mean()	
 ###### Time Series Body GyroJerk Magnitude-std()	
 
-## FREQUENCY SERIES VARIABLES
+### FREQUENCY SERIES VARIABLES
 *vALUES RANGE FROM -1 TO 1*
 ###### Frequency Series Body Acceleration-mean()-X	
 ###### Frequency Series Body Acceleration-mean()-Y	
