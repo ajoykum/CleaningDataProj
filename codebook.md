@@ -49,13 +49,13 @@ The following variables are documented in the Outputdataset
   *vALUES: 1 TO 30*
   
 ## TIME SERIES VARIABLES
-*vALUES RANGE FROM -1 TO 1*
-Time Series Body Acceleration-mean()-X	
-Time Series Body Acceleration-mean()-Y	
-Time Series Body Acceleration-mean()-Z	
-Time Series Body Acceleration-std()-X	
-Time Series Body Acceleration-std()-Y	
-Time Series Body Acceleration-std()-Z	
+*Values range FROM -1 TO 1*
+###### Time Series Body Acceleration-mean()-X	
+###### Time Series Body Acceleration-mean()-Y	
+###### Time Series Body Acceleration-mean()-Z	
+###### Time Series Body Acceleration-std()-X	
+###### Time Series Body Acceleration-std()-Y	
+###### Time Series Body Acceleration-std()-Z	
 Time Series GravityAcceleration-mean()-X	
 Time Series GravityAcceleration-mean()-Y	
 Time Series GravityAcceleration-mean()-Z	
